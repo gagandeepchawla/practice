@@ -16,5 +16,3 @@ for i  in  splits:
 for i in dict:
     print dict[i]
 	
-	
-	
