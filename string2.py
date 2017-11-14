@@ -15,4 +15,4 @@ for i  in  splits:
         dict[i] =0
 for i in dict:
     print dict[i]
-	
+
