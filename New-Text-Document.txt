@@ -1,0 +1,27 @@
+Enter file in which to save the key (/c/Users/Gagandeep.Chawla/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Gagandeep.Chawla/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Gagandeep.Chawla/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:T71Erg0dHDMNAWleYSE0IEwOQ4z34k2w3hQ98mY3OC4 your_email@example.com
+The key's randomart image is:
++---[RSA 4096]----+
+|   ++oo..o=oX*   |
+|  . +++.o o=.+.  |
+|   . +.+ = .+    |
+|    o + * += .   |
+|   o * +Soo.=    |
+|    o E .o = .   |
+|       .  o o    |
+|                 |
+|                 |
++----[SHA256]-----+
+Enter file in which to save the key (/c/Users/Gagandeep.Chawla/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /c/Users/Gagandeep.Chawla/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Gagandeep.Chawla/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:T71Erg0dHDMNAWleYSE0IEwOQ4z34k2w3hQ98mY3OC4 your_email@example.com
+The key's randomart image is:
